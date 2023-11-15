@@ -1,3 +1,2 @@
--Terry, mainly learning C, Java, Python.
--Graduated from University of Surrey
+-University of Surrey Computer Science Major Graduate
 -Reach me through 'hoyulee@yahoo.com.hk'
