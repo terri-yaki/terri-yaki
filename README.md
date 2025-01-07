@@ -4,7 +4,9 @@
 Hi! I'm **Terry**, a junior software developer with a strong focus on full-stack development, artificial intelligence, and software engineering. With hands-on experience in Python, Node.js, and React Native.
 
 📍 Based in **Hong Kong**  
-🌟 Currently working at **Hong Kong Hospital Authority** as a Junior Programmer (Software Dev) 
+
+🌟 Currently working at **Hong Kong Hospital Authority** as a Junior Programmer (Software Dev)
+
 💻 Always exploring new technologies and learning new skills.
 
 ## Current Projects
@@ -15,10 +17,6 @@ Hi! I'm **Terry**, a junior software developer with a strong focus on full-stack
 - 📧 [Email](mailto:hoyulee@yahoo.com.hk)
 - 💼 [LinkedIn](https://linkedin.com/in/terrylhyyy)
 - 🖥️ [Portfolio](https://terriyaki.cc)
-
-## GitHub Stats
-
-![Terry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=terri-yaki&show_icons=true&theme=radical)
 
 ---
 
