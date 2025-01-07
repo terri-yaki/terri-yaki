@@ -11,6 +11,7 @@ Hi! I'm **Terry**, a junior software developer with a strong focus on full-stack
 
 ## Current Projects
 - **[Earth Walker](https://github.com/terri-yaki/Earth-Walker):** Developing a lifestyle tracking app that encourages you to touch more grass (Work in Progress).
+- **[Portfolio](https://github.com/terri-yaki/portfolio):** Trying to rebuild it in flask with more functions.
 
 ## Connect with Me
 
