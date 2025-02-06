@@ -5,11 +5,12 @@ Hi! I'm **Terry**, a junior software developer with a strong focus on full-stack
 
 📍 Based in **Hong Kong**  
 
-🌟 Currently working at **Hong Kong Hospital Authority** as a Junior Programmer (Software Dev)
+🌟 Currently working as a Junior Software Engineer
 
 💻 Always exploring new technologies and learning new skills.
 
 ## Current Projects
+- **[OOTD Generator](https://github.com/terri-yaki/ootd-generator):** Your E-Wardrobe and outfit generator! Available on Windows and Androids, coming soon to Iphone.
 - **[Earth Walker](https://github.com/terri-yaki/Earth-Walker):** Developing a lifestyle tracking app that encourages you to touch more grass (Work in Progress).
 - **[Portfolio](https://github.com/terri-yaki/portfolio):** Trying to rebuild it in flask with more functions.
 
