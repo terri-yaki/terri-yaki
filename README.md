@@ -1,7 +1,7 @@
 # Welcome to terri-yaki's GitHub 👋
 
 ## About Me
-Hi! I'm **Terry**, a junior software developer with a strong focus on full-stack development, artificial intelligence, and software engineering. With hands-on experience in Python, Node.js, and React Native.
+Hi! I'm **Terry**, a junior software developer with a strong focus on full-stack development, artificial intelligence, and software engineering.
 
 📍 Based in **Hong Kong**  
 
